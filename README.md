@@ -1,2 +1,2 @@
 # KatasDavidLaunchX
-Mis katas terminadas para Lauch X 
+Mis katas terminadas para Launch X 
